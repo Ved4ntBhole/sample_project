@@ -1,4 +1,4 @@
 def subtract(a, b):
-    return a - b
+    return a + b
 
-print("Subtraction:", subtract(5, 3))
+print("Sum:", subtract(20, 3))
